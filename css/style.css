@@ -1,0 +1,13 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.background{
+    width: auto;
+    height: 800px;
+    background-image: url(/assets/img/black-wallpaper-15.jpeg);
+    object-fit: cover;
+}
+.container{
+    color: red;
+}
