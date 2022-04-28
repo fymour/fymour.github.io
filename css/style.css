@@ -31,3 +31,11 @@ body{
     width: 200px;
     height: 200px;
 }
+.feedback{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
